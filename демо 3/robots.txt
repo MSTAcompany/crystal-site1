@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# После публикации замените домен-заглушку на реальный адрес сайта:
+# Sitemap: https://YOUR-DOMAIN.ru/sitemap.xml
